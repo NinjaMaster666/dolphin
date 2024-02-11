@@ -1,0 +1,398 @@
+.1_2 { 
+	overflow:hidden;
+}
+.e1_2 { 
+	background-color:rgba(108.00000116229057, 0, 108.00000116229057, 1);
+	width:960px;
+	height:1500px;
+	position:absolute;
+}
+.e1_3 { 
+	background-color:rgba(210.00000268220901, 95.00000193715096, 210.00000268220901, 1);
+	width:960px;
+	height:128px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e1_4 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:150px;
+	height:105px;
+	position:absolute;
+	left:12px;
+	top:12px;
+}
+.e1_5 { 
+	background-color:rgba(51.00000075995922, 204.00000303983688, 204.00000303983688, 1);
+	width:185px;
+	height:30px;
+	position:absolute;
+	left:204px;
+	top:47px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_6 { 
+	background-color:rgba(51.00000075995922, 204.00000303983688, 204.00000303983688, 1);
+	width:185px;
+	height:30px;
+	position:absolute;
+	left:461px;
+	top:47px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_7 { 
+	background-color:rgba(51.00000075995922, 204.00000303983688, 204.00000303983688, 1);
+	width:185px;
+	height:30px;
+	position:absolute;
+	left:718px;
+	top:47px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_8 { 
+	background-color:rgba(205.00000298023224, 0, 116.00000068545341, 1);
+	width:960px;
+	height:217px;
+	position:absolute;
+	left:0px;
+	top:1288px;
+}
+.e1_9 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:388px;
+	height:72px;
+	position:absolute;
+	left:37px;
+	top:1313px;
+}
+.e1_10 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:388px;
+	height:72px;
+	position:absolute;
+	left:37px;
+	top:1397px;
+}
+.e1_11 { 
+	color:rgba(0, 0, 0, 1);
+	width:489px;
+	height:68px;
+	position:absolute;
+	left:235px;
+	top:141px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:72px;
+	letter-spacing:0;
+}
+.e1_12 { 
+	color:rgba(0, 0, 0, 1);
+	width:444px;
+	height:90px;
+	position:absolute;
+	left:12px;
+	top:324px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e1_13 { 
+	color:rgba(0, 0, 0, 1);
+	width:444px;
+	height:90px;
+	position:absolute;
+	left:12px;
+	top:637px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e1_14 { 
+	color:rgba(0, 0, 0, 1);
+	width:444px;
+	height:90px;
+	position:absolute;
+	left:12px;
+	top:958px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e1_15 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:812px;
+	height:218px;
+	position:absolute;
+	left:69px;
+	top:380px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.1_15 { 
+	border:10px solid rgba(210.00000268220901, 95.00000193715096, 210.00000268220901, 1);
+}
+.e1_16 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:812px;
+	height:218px;
+	position:absolute;
+	left:74px;
+	top:696px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.1_16 { 
+	border:10px solid rgba(210.00000268220901, 95.00000193715096, 210.00000268220901, 1);
+}
+.e1_17 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:812px;
+	height:218px;
+	position:absolute;
+	left:69px;
+	top:1025px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.1_17 { 
+	border: 10px solid rgba(210.00000268220901, 95.00000193715096, 210.00000268220901, 1);
+}
+.e1_18 { 
+	width:130px;
+	height:70px;
+	position:absolute;
+	left:99px;
+	top:1157px;
+	background-image:url(images/dolphins_1132847_1920.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_19 { 
+	width:130px;
+	height:70px;
+	position:absolute;
+	left:249px;
+	top:1157px;
+	background-image:url(images/dolphin_906176_1920_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_20 { 
+	width:150px;
+	height:70px;
+	position:absolute;
+	left:398px;
+	top:1157px;
+	background-image:url(images/dolphins_906175_1920_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_21 { 
+	color:rgba(0, 0, 0, 1);
+	width:746px;
+	height:81px;
+	position:absolute;
+	left:107px;
+	top:408px;
+	font-family:Roboto;
+	text-align:justified;
+	font-size:12px;
+	letter-spacing:0;
+}
+.e1_22 { 
+	color:rgba(0, 0, 0, 1);
+	width:746px;
+	height:81px;
+	position:absolute;
+	left:107px;
+	top:723px;
+	font-family:Roboto;
+	text-align:justified;
+	font-size:12px;
+	letter-spacing:0;
+}
+.e1_23 { 
+	color:rgba(0, 0, 0, 1);
+	width:746px;
+	height:81px;
+	position:absolute;
+	left:107px;
+	top:1055px;
+	font-family:Roboto;
+	text-align:justified;
+	font-size:12px;
+	letter-spacing:0;
+}
+.e1_24 { 
+	width:100px;
+	height:66.66666412353516px;
+	position:absolute;
+	left:115px;
+	top:507px;
+	background-image:url(images/dolphinarium_3578853_1920.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_25 { 
+	width:117px;
+	height:70px;
+	position:absolute;
+	left:115px;
+	top:825px;
+	background-image:url(images/dolphin_1132843_1920.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_26 { 
+	width:100px;
+	height:70px;
+	position:absolute;
+	left:245px;
+	top:825px;
+	background-image:url(images/dolphin_91090_1920_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_27 { 
+	width:100px;
+	height:66.61458587646484px;
+	position:absolute;
+	left:232px;
+	top:505px;
+	background-image:url(images/blue_2567658_1920_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_28 { 
+	width:170px;
+	height:70px;
+	position:absolute;
+	left:358px;
+	top:825px;
+	background-image:url(images/dolphins_277331_1920_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_29 { 
+	width:198px;
+	height:67px;
+	position:absolute;
+	left:349px;
+	top:506px;
+	background-image:url(images/background_4703963_1920_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_30 { 
+	width:120px;
+	height:89.8125px;
+	position:absolute;
+	left:27px;
+	top:19px;
+	background-image:url(images/dolphin_1531032_640_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_31 { 
+	color:rgba(0, 0, 0, 1);
+	width:363px;
+	height:56px;
+	position:absolute;
+	left:59px;
+	top:1326px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e1_32 { 
+	color:rgba(0, 0, 0, 1);
+	width:363px;
+	height:56px;
+	position:absolute;
+	left:54px;
+	top:1415px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e1_33 { 
+	width:140px;
+	height:70px;
+	position:absolute;
+	left:568px;
+	top:1157px;
+	background-image:url(images/animal_1869337_640_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_34 { 
+	width:130px;
+	height:70px;
+	position:absolute;
+	left:541px;
+	top:825px;
+	background-image:url(images/girl_68819_1920_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_35 { 
+	width:94.76082611083984px;
+	height:65px;
+	position:absolute;
+	left:568px;
+	top:507px;
+	background-image:url(images/dolphin_3730716_640_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_36 { 
+	width:120px;
+	height:70px;
+	position:absolute;
+	left:728px;
+	top:1157px;
+	background-image:url(images/woman_2444053_640_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_37 { 
+	width:150px;
+	height:70px;
+	position:absolute;
+	left:684px;
+	top:825px;
+	background-image:url(images/animals_4703964_640_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_38 { 
+	width:120px;
+	height:65px;
+	position:absolute;
+	left:690px;
+	top:507px;
+	background-image:url(images/dolphin_79847_640_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
